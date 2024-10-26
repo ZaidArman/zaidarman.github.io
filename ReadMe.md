@@ -3,6 +3,10 @@ Hi, I'm Zaid Ullah
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br/>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+(Django)+Developer;Data+Scientist;Machine+Learning+Engineer;AI+Developer;Web+App+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+
 <img align="left" src="https://github.com/ZaidArman/zaidarman.github.io/blob/main/readme%20pic.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="290" />
 
 <hr>
@@ -101,7 +105,7 @@ Zaid Ullah
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:zahidu864@gmail.com">contact me through email</a> me or <a href="https://wa.me/+923328516774" target="_blank">Contact me on WhatsApp</a>.
+If you have any questions about front-end web development, feel free to <a href="mailto:zahidu864@gmail.com">contact me through email</a> or <a href="https://wa.me/+923328516774" target="_blank">Contact me on WhatsApp</a>.
 
 You can hire me as a freelancer on <a href="https://www.fiverr.com/pe/w0E33g">Fiverr</a> or <a href="https://www.linkedin.com/in/zaid-ullah07/">LinkedIn</a> to work your Python & machine learning project on web.
 
