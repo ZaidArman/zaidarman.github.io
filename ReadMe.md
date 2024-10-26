@@ -101,9 +101,9 @@ Zaid Ullah
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
+If you have any questions about front-end web development, feel free to <a href="mailto:zahidu864@gmail.com">contact me through email</a> me or <a href="https://wa.me/+923328516774" target="_blank">Contact me on WhatsApp</a>.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to deploy your machine learning project on web.
+You can hire me as a freelancer on <a href="https://www.fiverr.com/pe/w0E33g">Fiverr</a> or <a href="https://www.linkedin.com/in/zaid-ullah07/">LinkedIn</a> to work your Python & machine learning project on web.
 
   </td>
   <td width="50%" valign="top">
@@ -112,8 +112,7 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw"
 
 **<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
 
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
+“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.” <br> Elon Musk
 
   </td>
   </tr>
@@ -121,6 +120,7 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw"
 
 ------
 Credits: [ZaidArman](https://github.com/ZaidArman)
+<br>
 Last Edited On: 26/10/2024
 
 
