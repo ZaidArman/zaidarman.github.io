@@ -3,7 +3,7 @@ Hi, I'm Zaid Ullah
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br/>
 
-<img align="left" src="../zaidarman.github.io/readme pic.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://github.com/ZaidArman/zaidarman.github.io/blob/main/readme%20pic.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 
 <hr>
 
