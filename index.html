@@ -24,16 +24,17 @@
 	<link href="css/main.css" rel="stylesheet" type="text/css" media="all" />
 	<link async href="css/owl-carousel/owl.carousel.css" rel="stylesheet" media="all">
 	<link async href="css/owl-carousel/owl.theme.css" rel="stylesheet" media="all">
-	<link rel="preload"
-		href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,300,600%7CRoboto+Slab:400,300,700&display=swap"
-		as="style" onload="this.onload=null;this.rel='stylesheet'">
+	<link rel="preload" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,300,600%7CRoboto+Slab:400,300,700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
 	<link rel="preload" href="css/fontello.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-
+	<!-- <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet"> -->
 </head>
 
 <body>
 
-
+	<!-- Dark Mode Toggle Button -->
+	<!-- <button class="dark-mode-toggle" aria-label="Toggle dark mode">
+		<i class="icon-moon"></i>
+	</button> -->
 
 	<!--Wrapper-->
 	<div id="wrapper" class="mt-50 mb-50">
@@ -369,3 +370,45 @@
 </body>
 
 </html>
+
+
+<!-- CSS For Dark Mode -->
+ <!-- /* Dark Mode */
+
+ /* Base styles for light mode */
+ body {
+	 background-color: #ffffff; /* Light background */
+	 color: #000000; /* Dark text */
+ }
+ 
+ a {
+	 color: #007bff; /* Link color */
+ }
+ 
+ /* Dark mode styles */
+ [data-theme='dark'] {
+	 background-color: #1a1a1a; /* Dark background */
+	 color: #f1f1f1; /* Light text */
+ }
+ 
+ [data-theme='dark'] a {
+	 color: #66aaff; /* Light link color */
+ }
+ 
+ /* Button styles */
+ .dark-mode-toggle {
+	 position: fixed;
+	 top: 20px; /* Adjust position as needed */
+	 right: 20px; /* Adjust position as needed */
+	 background: transparent;
+	 border: none;
+	 cursor: pointer;
+	 z-index: 1000; /* Ensure it is above other elements */
+ }
+ 
+ /* Optional: Add styles for the button */
+ .dark-mode-toggle i {
+	 font-size: 24px; /* Icon size */
+	 transition: color 0.3s ease; /* Smooth transition for icon color */
+ }
+ /* End Dark Mode */ -->
